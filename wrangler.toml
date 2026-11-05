@@ -5,4 +5,4 @@ compatibility_date = "2026-10-24"
 [[d1_databases]]
 binding = "DB"
 database_name = "mafia-show-db"
-database_id = "REPLACE_WITH_CLOUDFLARE_D1_DATABASE_ID"
+database_id = "2957720c-6aa7-4e39-8443-62789bff0972"
