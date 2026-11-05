@@ -1,4 +1,4 @@
-name = "mafia-show-api"
+name = "mafia-show"
 main = "worker.js"
 compatibility_date = "2026-10-24"
  
