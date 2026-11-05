@@ -1,0 +1,8 @@
+name = "mafia-show-api"
+main = "worker.js"
+compatibility_date = "2026-10-24"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "mafia-show-db"
+database_id = "REPLACE_WITH_CLOUDFLARE_D1_DATABASE_ID"
